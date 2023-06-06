@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946265621997",
+    "firebase_url": "https://lora-d3531-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lora-d3531",
+    "storage_bucket": "lora-d3531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946265621997:android:20f3688a72ddc7bffc13e4",
+        "android_client_info": {
+          "package_name": "com.latihanfire.latihan_firestore_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946265621997-57s2ve4p7jee02r413vfgphgp046191s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latihanfire.latihan_firestore_1",
+            "certificate_hash": "0876e2912270ff4c0f2be5c15ff624c8f2c57076"
+          }
+        },
+        {
+          "client_id": "946265621997-apst2b01s8lon6o6ib73paksj7lu109t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu3fz64eHhls-3xuxvOFTrFnadiBRaGqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946265621997-apst2b01s8lon6o6ib73paksj7lu109t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
